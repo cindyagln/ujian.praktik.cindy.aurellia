@@ -1,0 +1,30 @@
+body{
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+}
+.userjudul{
+    font-weight:bold;
+}
+.passjudul{
+    font-weight:bold;
+}
+.judul{
+    font-weight:bold;
+    font-size: 50px;
+    margin-bottom: 25 px;
+}
+.ket{
+    font-weight:bold;
+    margin-bottom:50px
+}
+.home{
+    margin-left: 100px;
+    margin-right: 70 px;
+    height:7vh;
+    widht: 150 px;
+    border: 1 px solid black;
+    border-radius:6px
+
+}
